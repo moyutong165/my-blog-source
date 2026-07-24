@@ -1,10 +1,10 @@
 - class_name: 朋友们
   class_desc: 我的朋友和优秀博客
   link_list:
-    - name: 示例博客
-      link: https://example.com
-      avatar: https://example.com/avatar.jpg
-      descr: 这是一个示例博客
+    - name: 宽哥
+      link: https://situchengxiang.pages.dev
+      avatar: https://situchengxiang.pages.dev/images/avatar.png
+      descr: 宽哥，物理学院大神
 
     - name: 莫雨桐的博客
       link: https://moyutong165.github.io
