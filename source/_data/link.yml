@@ -1,0 +1,20 @@
+- class_name: 友链
+  class_desc: 欢迎访问我的朋友们!
+  link_list:
+    - name: 司徒和丞相
+      link: https://situchengxiang.pages.dev
+      avatar: https://situcengxiang.pages.dev/avater.png
+      descr: 物院宽哥
+    - name: 蛋爷
+      link: https://dumbdaidai.github.io
+      avatar: https://avatars.githubusercontent.com/u/180678833?v=4
+      descr: 给蛋爷跪啦（此处应用emoji)
+    - name: 白糖撒一地
+      link: https://blog.sugarmgp.cn
+      avatar: https://blog.sugarmgp.cn/_astro/sugarmgp-avatar.BkQQSySP_Z2f9mQt.avif
+      descr: 白糖大佬
+    - name: 夏依@shhy.in
+      link: https://shhy.in
+      avatar: https://shhy.in/favicon.ico
+      descr: 没找到头像（
+

@@ -16,17 +16,15 @@ block content
     case page.type
       when 'tags'
         include includes/page/tags.pug
-        +commentLoad
       when 'link'
         include includes/page/flink.pug
-        +commentLoad
       when 'categories'
         include includes/page/categories.pug
-        +commentLoad
       when '404'
         include includes/page/404.pug
       when 'shuoshuo'
         include includes/page/shuoshuo.pug
+        +commentload
       default
         include includes/page/default-page.pug
         +commentLoad
